@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valery-lebedzev.
-- 👀 I’m interested in mountains, drums, phtography and motorbikes.
+- 👀 I’m interested in mountaineering, drums, phtography and motorbikes.
 - 🌱 I’m currently learning to riding a motorcycle.
-- 💞️ I’m looking to collaborate on hardware projects. I can offer scheatic, PCB and microwave design.
+- 💞️ I’m looking to collaborate on hardware projects. I can offer my support with schematic, PCB and microwave design.
 - 📫 How to reach me: https://www.linkedin.com/in/valery-lebedzev/
 
 <!---
